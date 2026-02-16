@@ -4,14 +4,14 @@
 
 [![Platform](https://img.shields.io/badge/Platform-STM32-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![TwinsGlow](https://img.shields.io/badge/Powered_by-TwinsGlow_Algorithms-red.svg)](https://twinsglow.com)
+[![TwinsGlow](https://img.shields.io/badge/Powered_by-TwinsGlow_Algorithms-red.svg)](https://www.twinsglow.com)
 
 ## 📖 About
 This project provides a robust **3-axis gimbal controller** implementation for **STM32F4** microcontrollers. It features a high-frequency **FOC (Field Oriented Control)** loop for brushless DC (BLDC) motors, ensuring butter-smooth video footage for **thermal cameras**, **night vision optics**, and **DSLRs** mounted on drones or ground vehicles.
 
 Included is a tunable **Cascade PID** architecture (Position, Velocity, Current) that can compensate for wind gusts and vehicle vibrations up to 50Hz.
 
-### 🏷️ Topics
+### 🏷�?Topics
 `gimbal-stabilization` `foc-control` `bldc-driver` `stm32-firmware` `uav-camera` `control-theory` `robotics`
 
 ---
@@ -63,7 +63,7 @@ For **Industrial & Defense Applications** such as:
 *   **heavy-Lift Payloads** (> 5kg optics)
 *   **Extreme Environment Operation** (-40°C to +85°C)
 
-👉 **Explore the [TwinsGlow Industrial Gimbal Series](https://twinsglow.com).**
+👉 **Explore the [TwinsGlow Industrial Gimbal Series](https://www.twinsglow.com).**
 
 Our commercial units feature **direct-drive torque motors** with 14-bit encoders and automated **auto-tune** capabilities that adapt to payload changes in seconds.
 
